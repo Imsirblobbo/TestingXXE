@@ -1,0 +1,4 @@
+<img src=imgbad onerror=alert(1)>
+<script>
+alert('XSS');
+</script>
